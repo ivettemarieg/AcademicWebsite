@@ -1,4 +1,3 @@
 # AcademicWebsite
 
-
-Testing 
+Personal academic website for PhD student. 
